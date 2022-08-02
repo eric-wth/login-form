@@ -1,3 +1,7 @@
+This is a simple login form with username, password, and email validation.
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
